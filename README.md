@@ -29,7 +29,10 @@ Sales-trend-> month-wise, year-wise, yearly_month wise
 - **Data-Driven Decision Making**: Provide actionable insights to inform strategic business decisions and improve sales outcomes.
 
 ## Dataset Source 💿
-- The dataset used in this project is sourced by Physics Wallah
+- The dataset used in this project is sourced by Physics Wallah.
+
+## Domain 📺
+- The domain of this project is E-Commerce platform (Amazon)
 
 ## Tools ⚒️
 - PowerBI for the cleaning and the visualization of the insights.
