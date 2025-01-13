@@ -58,6 +58,8 @@ approach, businesses can stay ahead of the competition, better meet customer nee
 - **Pbix file** - It is the PowerBI file in which the interactive dashboard is there so that any user can use it accordingly.
 - **Presentation file** - This is the file that contains all the relevant insights about the project.
 - **Readme file** - It gives the overview of the project.
+- **High Level Design file** - High-Level Design is a initial step in development of applications where overall structure of a system is planned. High-Level design focuses mainly on how different components of      the system work together without getting to know about internal coding and implementation. This helps everyone involving in the project to understand the goals and ensures good communication during development.
+- **Low Level Design file** - Low-Level Design, is a phase in the software development process where detailed system components and their interactions are specified, along with their implementation. It involves     converting the high-level design into a more detailed blueprint, addressing specific algorithms, data structures, and interfaces. LLD serves as a guide for developers during coding, which ensures the accurate     and efficient implementation of the system’s functionality.
 
 ## About the Author 📃
 - Utkarsh Sharma
