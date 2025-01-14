@@ -1,5 +1,5 @@
 # Amazon Sales Data Analysis
-![Amazon Sales Data Analysis](https://assets.mspimages.in/gear/wp-content/uploads/2021/07/Amazon-1.jpg)
+![Amazon Sales Data Analysis](https://cdn.dribbble.com/users/954572/screenshots/16765270/amazon-gif.gif)
 
 ## About the Project 🚀
 This project is focused on analyzing Amazon sales data to extract valuable insights and trends. The analysis covers several key aspects, including:
